@@ -6,7 +6,7 @@ class people(val name: String,val age:Int,val gender:String){
 //    member function to have a birthday
     fun  havebirthday(){
        // age++
-    println("$name just turned $age")
+    println("$name just turned $age years old")
     }
 
 }

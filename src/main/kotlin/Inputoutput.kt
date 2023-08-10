@@ -1,7 +1,7 @@
 fun main(args:Array<String>) {
-    print("Enter First Name")
-    print("Enter Last Name")
+    println("Enter First Name")
+    println("Enter Last Name")
     val  myenteredstring= readln()
 
-    println("Welcome $myenteredstring to emobilis mobile technology")
+    println("$myenteredstring welcome to emobilis mobile technology")
 }
